@@ -1,0 +1,14 @@
+﻿  Source.c
+E:\source\repos\deletecallback\deletecallback\Source.c(579,30): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+E:\source\repos\deletecallback\deletecallback\Source.c(735,20): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+E:\source\repos\deletecallback\deletecallback\Source.c(974,116): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+E:\source\repos\deletecallback\deletecallback\Source.c(996,40): warning C4244: 'function': conversion from 'ULONG_PTR' to 'DWORD', possible loss of data
+E:\source\repos\deletecallback\deletecallback\Source.c(1229,149): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+E:\source\repos\deletecallback\deletecallback\Source.c(1230,166): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+E:\source\repos\deletecallback\deletecallback\Source.c(1271,67): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+E:\source\repos\deletecallback\deletecallback\Source.c(1271,89): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+E:\source\repos\deletecallback\deletecallback\Source.c(406): error C4789: buffer 'PPLCODE' of size 2 bytes will be overrun; 8 bytes will be written starting at offset 0
+  All 36 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed
